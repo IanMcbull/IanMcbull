@@ -2,6 +2,7 @@
 ### Hi there 👋 
 Ian here. I'm a fullstack web developer based in Nairobi, Kenya :kenya:.
 I believe technology is the great equalizer and I try to help, mentor and eduacte as many people as I possibly can on the importance of having a basic understanding of computers.:smiley:
+Other than trying to change code one line at a time, I occassionally mentor at [nodeschool](https://nodeschool.io/) the nairobi chapter, in an attempt to give back and inspire the next generation of software developers.
 #### Languages I work with:
 - **HTML**
 - **CSS**
