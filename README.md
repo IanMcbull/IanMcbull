@@ -8,17 +8,20 @@ Other than trying to change code one line at a time, I occassionally mentor at [
 - **CSS**
 - **Javascript**
 - **Vuejs**
-- **GraphQl**
+- **GraphQL**
 - **Expressjs**
 - **Mongodb**
 - **EJS**
 - **Nodejs**
 
-#### Who am I, really.
+#### Who am I, really. 
 - :family_man_woman_boy: A Husband
 - 🐶A Dog Lover
 - 🌠 A dreamer
 
+#### What does my future self hope to achieve. 🚀
+- Contribute more to open source projects 💻
+- Build products that will have a global impact 🌐
 
 [![IanMcbull's GitHub stats](https://github-readme-stats.vercel.app/api?username=IanMcbull&show_icons=true&theme=radical&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
 
