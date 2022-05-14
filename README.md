@@ -1,3 +1,4 @@
+(https://github.com/IanMcbull/IanMcbull/github_banner.png)
 ### Hi there 👋 
 Ian here. I'm a fullstack web developer based in Nairobi, Kenya :kenya:.
 I believe technology is the great equalizer and I try to help, mentor and eduacte as many people as I possibly can on the importance of having a basic understanding of computers.:smiley:
