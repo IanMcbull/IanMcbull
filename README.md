@@ -32,7 +32,7 @@ Other than trying to change the world one line of code at a time, I occassionall
 <a href="http://www.efficacy.co.ke//"><img src="https://media.giphy.com/media/zE2O5SXEJf6zb2Dw2q/giphy.gif" width="400" alt="project_gif"></a>
 
 ### Backend Projects (APIs)
-<a href="https://github.com/IanMcbull/foodly-doodly-api"></a>
+(https://github.com/IanMcbull/foodly-doodly-api)
 
 
 [![IanMcbull's GitHub stats](https://github-readme-stats.vercel.app/api?username=IanMcbull&show_icons=true&theme=radical&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
