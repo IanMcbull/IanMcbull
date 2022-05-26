@@ -34,6 +34,10 @@ Other than trying to change the world one line of code at a time, I occassionall
 ### Backend Projects (APIs)
 [foodly-doodly-endpoint](https://github.com/IanMcbull/foodly-doodly-api)
 
+### Blogs Posts
+[What does it even mean to be asynchronous](https://dev.to/ianmcbull/what-does-it-even-mean-to-be-asynchronous-in-javascript-3a8i)
+
+
 
 [![IanMcbull's GitHub stats](https://github-readme-stats.vercel.app/api?username=IanMcbull&show_icons=true&theme=radical&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
 
