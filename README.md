@@ -37,6 +37,8 @@ Other than trying to change the world one line of code at a time, I occassionall
 
 ### Blogs Posts
 [What does it even mean to be asynchronous](https://dev.to/ianmcbull/what-does-it-even-mean-to-be-asynchronous-in-javascript-3a8i)
+[A comprehensive Guide to Regular Expressions](https://dev.to/ianmcbull/a-comprehensive-guide-to-regular-expressions-31ao)
+[Getting started with Typescript](https://dev.to/ianmcbull/lets-talk-about-typescript-451f)
 
 
 
