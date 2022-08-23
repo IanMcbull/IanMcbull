@@ -42,6 +42,7 @@ Other than trying to change the world one line of code at a time, I occassionall
 
 [Getting started with Typescript](https://dev.to/ianmcbull/lets-talk-about-typescript-451f)
 
+[The Evolution ofJavaScript](https://dev.to/ianmcbull/the-evolution-of-javascript-2bca)
 
 
 [![IanMcbull's GitHub stats](https://github-readme-stats.vercel.app/api?username=IanMcbull&show_icons=true&theme=radical&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
