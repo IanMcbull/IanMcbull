@@ -24,6 +24,7 @@ Other than trying to change the world one line of code at a time, I occassionall
 - **GraphQL**
 - **Expressjs**
 - **Mongodb**
+- **Typescript**
 - **EJS**
 - **Nodejs**
 
