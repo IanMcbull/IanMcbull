@@ -31,6 +31,8 @@ Other than trying to change the world one line of code at a time, I occassionall
 ### Front-End Projects
 <a href="https://superlative-moonbeam-329608.netlify.app/#/"><img src="https://media.giphy.com/media/pK6ESChdEAIFI4tDC5/giphy.gif" width="400" alt="project_gif"></a>
 <a href="https://celebrated-dango-7a2087.netlify.app/"><img src="https://media.giphy.com/media/1srQ6krWem0i3l2v96/giphy.gif" width="400" alt="project_gif"></a>
+<a href="https://symphonious-smakager-f7e718.netlify.app/#/"><img src="https://media.giphy.com/media/p99pZVmt1NVEn82RL1/giphy.gif" width="400" alt="project_gif"></a>
+<a href="https://sprightly-praline-aa85a9.netlify.app/"><img src="https://media.giphy.com/media/6iuwnOB9MBlYEMoL0p/giphy.gif" width="400" alt="project_gif"></a>
 <a href="https://obscure-bayou-53754.herokuapp.com/"><img src="https://media.giphy.com/media/ziAaPHAJ8fos7mYIfb/giphy.gif" width="400" alt="project_gif"></a>
 <a href="https://salty-shelf-47963.herokuapp.com/"><img src="https://media.giphy.com/media/mtOVegCZ6sbrKCFqpy/giphy.gif" width="400" alt="project_gif"></a>
 <a href="http://www.efficacy.co.ke//"><img src="https://media.giphy.com/media/zE2O5SXEJf6zb2Dw2q/giphy.gif" width="400" alt="project_gif"></a>
