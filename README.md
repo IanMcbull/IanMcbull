@@ -40,6 +40,10 @@ Other than trying to change the world one line of code at a time, I occassionall
 ### Back-End Projects (APIs)
 [foodly-doodly-endpoint](https://github.com/IanMcbull/foodly-doodly-api)
 
+🏆 Acoomplishments
+I recently got featured in my local newspaper.
+
+
 ### Blogs Posts
 [What does it even mean to be asynchronous](https://dev.to/ianmcbull/what-does-it-even-mean-to-be-asynchronous-in-javascript-3a8i)
 
