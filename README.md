@@ -43,7 +43,7 @@ Other than trying to change the world one line of code at a time, I occassionall
 🏆 Acoomplishments
 
 I recently got featured in my local newspaper.
-![Featured Iamge](https://github.com/IanMcbull/IanMcbull/blob/main/featured_image.jpeg)
+<img src="https://github.com/IanMcbull/IanMcbull/blob/main/featured.jpeg" alt="Featured Image">
 
 
 ### Blogs Posts
