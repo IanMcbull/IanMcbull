@@ -30,6 +30,7 @@ Other than trying to change the world one line of code at a time, I occassionall
 
 ### Front-End Projects
 <a href="https://superlative-moonbeam-329608.netlify.app/#/"><img src="https://media.giphy.com/media/pK6ESChdEAIFI4tDC5/giphy.gif" width="400" alt="project_gif"></a>
+<a href="https://superlative-moonbeam-329608.netlify.app/#/"><img src="https://media.giphy.com/media/pK6ESChdEAIFI4tDC5/giphy.gif" width="400" alt="project_gif"></a>
 <a href="https://obscure-bayou-53754.herokuapp.com/"><img src="https://media.giphy.com/media/ziAaPHAJ8fos7mYIfb/giphy.gif" width="400" alt="project_gif"></a>
 <a href="https://salty-shelf-47963.herokuapp.com/"><img src="https://media.giphy.com/media/mtOVegCZ6sbrKCFqpy/giphy.gif" width="400" alt="project_gif"></a>
 <a href="http://www.efficacy.co.ke//"><img src="https://media.giphy.com/media/zE2O5SXEJf6zb2Dw2q/giphy.gif" width="400" alt="project_gif"></a>
