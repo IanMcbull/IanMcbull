@@ -1,6 +1,7 @@
 ![banner image](https://github.com/IanMcbull/IanMcbull/blob/main/github_banner.png)
 ### Hi there 👋 
 Ian here. I'm a fullstack web developer based in Nairobi, Kenya :kenya:.
+[](https://wakatime.com/badge/user/6dc37878-3297-4e3b-beb8-74567d1dcbf8.svg)
 
 I believe technology is the great equalizer and I try to help, mentor and educate as many people as I possibly can on the importance of having a basic understanding of computers.:smiley:
 
