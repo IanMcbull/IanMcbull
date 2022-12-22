@@ -34,6 +34,7 @@ Other than trying to change the world one line of code at a time, I occassionall
 
 #### ReactJS Projects
 <a href="https://spectacular-elf-3624f8.netlify.app/" target="_blank"><img src="https://media.giphy.com/media/ITsSZQpHM2Is8VGXfq/giphy.gif" width="400" alt="project_gif"></a>
+<a href="https://curious-frangipane-02d009.netlify.app/" target="_blank"><img src="https://media.giphy.com/media/uMZnovciMDdTLqL8W0/giphy.gif" width="400" alt="project_gif"></a>
 
 #### Vanilla Projects
 <a href="https://dcmarvelherofinder.netlify.app/" target="_blank"><img src="https://media.giphy.com/media/cNUwH9IoKyo6XvOsdH/giphy.gif" width="400" alt="project_gif"></a>
