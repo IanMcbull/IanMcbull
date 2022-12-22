@@ -10,10 +10,30 @@ Other than trying to change the world one line of code at a time, I occassionall
 - **Computers**
 - **Books**
 - **Growth**
-#### What does my future self hope to achieve. 🚀
-- Contribute more to open source projects 💻
-- Build products that will have a global impact 🌐
-- I hope to continue learning and get an opportunity to work with individuals from different parts of the world 🤗
+
+### Front-End Projects
+#### Vue JS Projects
+<a href="https://superlative-moonbeam-329608.netlify.app/#/" target="_blank"><img src="https://media.giphy.com/media/pK6ESChdEAIFI4tDC5/giphy.gif" width="400" alt="project_gif"></a>
+<a href="https://celebrated-dango-7a2087.netlify.app/" target="_blank"><img src="https://media.giphy.com/media/1srQ6krWem0i3l2v96/giphy.gif" width="400" alt="project_gif"></a>
+<a href="https://sprightly-praline-aa85a9.netlify.app/" target="_blank"><img src="https://media.giphy.com/media/6iuwnOB9MBlYEMoL0p/giphy.gif" width="400" alt="project_gif"></a>
+
+#### ReactJS Projects
+<a href="https://spectacular-elf-3624f8.netlify.app/" target="_blank"><img src="https://media.giphy.com/media/ITsSZQpHM2Is8VGXfq/giphy.gif" width="400" alt="project_gif"></a>
+<a href="https://curious-frangipane-02d009.netlify.app/" target="_blank"><img src="https://media.giphy.com/media/uMZnovciMDdTLqL8W0/giphy.gif" width="400" alt="project_gif"></a>
+<a href="https://advice-generator-fm-challenge.netlify.app/" target="_blank"><img src="https://media.giphy.com/media/OCeEYihTKpF2xtCywG/giphy.gif" width="400" alt="project_gif"></a>
+<a href="https://bisou-rose.co.ke/" target="_blank"><img src="https://media.giphy.com/media/XQlrbp7mwYTGJrQdBI/giphy.gif" width="400" alt="project_gif"></a>
+
+#### Vanilla Projects
+<a href="https://dcmarvelherofinder.netlify.app/" target="_blank"><img src="https://media.giphy.com/media/cNUwH9IoKyo6XvOsdH/giphy.gif" width="400" alt="project_gif"></a>
+<a href="https://unique-parfait-415faf.netlify.app/" target="_blank"><img src="https://media.giphy.com/media/0fwIOkT8VMlwXgyG1P/giphy.gif" width="400" alt="project_gif"></a>
+<a href="https://marvelous-empanada-972eae.netlify.app/" target="_blank"><img src="https://media.giphy.com/media/ZwyN2CoxtQflNBofHh/giphy.gif" width="400" alt="project_gif"></a>
+<a href="https://expense-chart-component-fem.netlify.app/" target="_blank"><img src="https://media.giphy.com/media/QWPrqtS0UGX72KfLkM/giphy.gif" width="400" alt="project_gif"></a>
+
+#### NodeJS Projects
+<a href="https://obscure-bayou-53754.herokuapp.com/" target="_blank"><img src="https://media.giphy.com/media/ziAaPHAJ8fos7mYIfb/giphy.gif" width="400" alt="project_gif"></a>
+
+
+
 #### Languages I work with:
 - **HTML**
 - **CSS**
@@ -26,24 +46,7 @@ Other than trying to change the world one line of code at a time, I occassionall
 - **EJS**
 - **Nodejs**
 
-### Front-End Projects
-#### Vue JS Projects
-<a href="https://superlative-moonbeam-329608.netlify.app/#/" target="_blank"><img src="https://media.giphy.com/media/pK6ESChdEAIFI4tDC5/giphy.gif" width="400" alt="project_gif"></a>
-<a href="https://celebrated-dango-7a2087.netlify.app/" target="_blank"><img src="https://media.giphy.com/media/1srQ6krWem0i3l2v96/giphy.gif" width="400" alt="project_gif"></a>
-<a href="https://sprightly-praline-aa85a9.netlify.app/" target="_blank"><img src="https://media.giphy.com/media/6iuwnOB9MBlYEMoL0p/giphy.gif" width="400" alt="project_gif"></a>
 
-#### ReactJS Projects
-<a href="https://spectacular-elf-3624f8.netlify.app/" target="_blank"><img src="https://media.giphy.com/media/ITsSZQpHM2Is8VGXfq/giphy.gif" width="400" alt="project_gif"></a>
-<a href="https://curious-frangipane-02d009.netlify.app/" target="_blank"><img src="https://media.giphy.com/media/uMZnovciMDdTLqL8W0/giphy.gif" width="400" alt="project_gif"></a>
-
-#### Vanilla Projects
-<a href="https://dcmarvelherofinder.netlify.app/" target="_blank"><img src="https://media.giphy.com/media/cNUwH9IoKyo6XvOsdH/giphy.gif" width="400" alt="project_gif"></a>
-
-#### NodeJS Projects
-<a href="https://obscure-bayou-53754.herokuapp.com/" target="_blank"><img src="https://media.giphy.com/media/ziAaPHAJ8fos7mYIfb/giphy.gif" width="400" alt="project_gif"></a>
-
-### Back-End Projects (APIs)
-[foodly-doodly-endpoint](https://github.com/IanMcbull/foodly-doodly-api)
 
 ### Accomplishments 🏆
 
