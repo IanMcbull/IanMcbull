@@ -34,12 +34,14 @@ Other than trying to change the world one line of code at a time, I occassionall
 
 
 
-#### Languages I work with:
+#### Languages and tools I work with:
 - **HTML**
 - **CSS**
 - **Javascript**
 - **Vuejs**
 - **GraphQL**
+- **Tailwindcss**
+- **React Query**
 - **Expressjs**
 - **Mongodb**
 - **Typescript**
