@@ -40,7 +40,7 @@ Other than trying to change the world one line of code at a time, I occassionall
 ### Back-End Projects (APIs)
 [foodly-doodly-endpoint](https://github.com/IanMcbull/foodly-doodly-api)
 
-🏆 ### Acoomplishments
+### Accomplishments 🏆
 
 I recently got featured in my local newspaper.
 
